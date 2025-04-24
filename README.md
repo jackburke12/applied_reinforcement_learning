@@ -1,2 +1,2 @@
 # reinforcement_learning_online_msds
-RL for Online MSDS
+Applied Reinforcement Learning for Online MSDS
