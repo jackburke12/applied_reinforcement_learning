@@ -14,8 +14,8 @@
 
 Due Friday, Sep 5, 2025 at 11:59pm ET:
 
-Lab 1: Cart Pole I 
-Quiz 1: RL Essentials
+- Lab 1: Cart Pole I 
+- Quiz 1: RL Essentials
 
 ---
 
