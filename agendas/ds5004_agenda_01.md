@@ -22,7 +22,8 @@ Due Friday, Sep 5, 2025 at 11:59pm ET:
 ### Content
 
 - Sample applications of RL
-- Syllabus
-- Review Project Guidelines
+- Syllabus (quick overview)
+- Review Project Guidelines (quick overview)
 - Review Notebook: RL Fundamentals
+- Review Cart Pole Lab
 
